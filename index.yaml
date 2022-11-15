@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nebula-studio:
+  - apiVersion: v2
+    appVersion: v3.0.0
+    created: "2022-11-15T14:09:28.951998858Z"
+    description: A Helm chart for nebula-studio
+    digest: 9ea0f94492a2891fde1d5a74ff460885cb3a4c3c6b4579c38ed8ff17d0ffdf51
+    name: nebula-studio
+    type: application
+    urls:
+    - https://github.com/Sterrenhemel/nebula-studio/releases/download/nebula-studio-0.1.2/nebula-studio-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-11-15T14:09:28.952003258Z"
