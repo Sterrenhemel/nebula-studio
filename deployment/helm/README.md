@@ -19,12 +19,12 @@ The chart is under deployment/helm
 
 ### Install with a default configurations
 
-Assume using release name: `my-studio`
+Assume using release name: `nebula-studio`
 
 
 ```
 $ cd nebula-studio
-$ helm upgrade --install my-studio deployment/helm
+$ helm upgrade --install nebula-studio deployment/helm
 ```
 
 ### Install with a NodePort for external visit
