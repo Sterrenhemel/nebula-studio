@@ -21,6 +21,7 @@ The chart is under deployment/helm
 
 Assume using release name: `my-studio`
 
+
 ```
 $ cd nebula-studio
 $ helm upgrade --install my-studio deployment/helm
